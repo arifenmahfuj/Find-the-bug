@@ -8,4 +8,4 @@ Internal services:
 - internal-service.training.invalid
 
 Administrative contact:
-admin@training-example.invalid
+admin@mahfujwhh.net
