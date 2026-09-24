@@ -2,12 +2,12 @@ development:
   adapter: postgresql
   host: localhost
   database: training_db
-  username: mahfujwhh
-  password: 0xamhacker_cb
+  username: demo-username
+  password: demo-pass
 
 production:
   adapter: postgresql
   host: db.internal.training
   database: production_demo
-  username: admin
-  password: password91
+  username: demo
+  password: demo
