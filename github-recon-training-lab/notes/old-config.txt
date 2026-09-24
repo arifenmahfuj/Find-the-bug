@@ -1,0 +1,9 @@
+Old configuration - DO NOT USE
+
+Previous demo API credential:
+OLD_DEMO_KEY_NOT_A_REAL_SECRET
+
+Previous database password:
+OLD_CLASSROOM_PASSWORD
+
+This file is intentionally included for Git history/recon training.

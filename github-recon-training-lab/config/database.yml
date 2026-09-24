@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  host: localhost
+  database: training_db
+  username: training_user
+  password: local_training_password
+
+production:
+  adapter: postgresql
+  host: db.internal.training
+  database: production_demo
+  username: app_service
+  password: FakePasswordForClassOnly
